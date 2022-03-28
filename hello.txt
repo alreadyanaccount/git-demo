@@ -10,4 +10,4 @@ hello bjpowernode! hello git!
 hello bjpowernode! hello git!
 hello bjpowernode! hello git!
 hello bjpowernode! hello git!
-hello bjpowernode! hello git!
+hello bjpowernode! hello git! hot-fix test
